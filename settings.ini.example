@@ -1,7 +1,7 @@
 [Plex]
 ### [REQUIRED] Plex server details - Github for instructions on token ###
-plex-host: http://localhost:32400
-plex-token:
+plex-host: http://172.17.0.1:32400
+plex-token: PLEX_TOKEN
 
 ### [REQUIRED] Current library info - Change defaults to match your current librarys ###
 # supports multiple libs, if separate by comma, no spaces
